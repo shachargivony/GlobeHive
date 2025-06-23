@@ -1,2 +1,0 @@
-# GlobeHive
-אתר דמו GlobeHive
